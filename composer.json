@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.2|^8.0",
         "ext-json": "*",
         "league/openapi-psr7-validator": "^0.12.1",
         "nyholm/psr7": "^1.3",
